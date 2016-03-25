@@ -1,0 +1,15 @@
+//coordin.h
+#ifndef COORDIN_H_
+#define COORDIN_H_
+
+struct polar{
+	double distance;
+	double angle;
+};
+struct rect{
+	double x;
+	double y;
+};
+polar trans_rect(const rect &);
+void show_pol(const polar &);
+#endif
