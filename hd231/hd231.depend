@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462558926 source:c:\codes\learnc\hd231\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
+1461311002 source:c:\codes\learnc\hd231\test.c
+
+1461311243 source:c:\codes\learnc\hd231\test.cpp
+	<iostream>
+

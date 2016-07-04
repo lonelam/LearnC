@@ -1,12 +1,13 @@
+//hd1.2.7
 #include<cstdio>
 int main(void)
 {
-	double sum=0;
-	double l;
-	while(scanf("%lf",&l)!=EOF)
+	double s=0;
+	double t;
+	for(int i=0;i<12;i++)
 	{
-		sum+=l;
+		scanf("%lf",&t);
+		s+=t;
 	}
-	sum/=12;
-	printf("$""%1.2lf",sum);
+	printf("$%1.2f\n",s/12);
 }

@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\codes\learnc\poj3255\源.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+c:\codes\learnc\poj3255\源.cpp(61): warning C4018: “<”: 有符号/无符号不匹配
+  poj3255.vcxproj -> C:\Codes\learnc\poj3255\Debug\poj3255.exe
+  poj3255.vcxproj -> C:\Codes\learnc\poj3255\Debug\poj3255.pdb (Partial PDB)

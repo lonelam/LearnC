@@ -1,0 +1,9 @@
+﻿  源.cpp
+c:\codes\learnc\ojtemp1\源.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+c:\codes\learnc\ojtemp1\源.cpp(80): warning C4018: “<”: 有符号/无符号不匹配
+c:\codes\learnc\ojtemp1\源.cpp(82): warning C4018: “<”: 有符号/无符号不匹配
+c:\codes\learnc\ojtemp1\源.cpp(86): warning C4018: “<”: 有符号/无符号不匹配
+c:\codes\learnc\ojtemp1\源.cpp(103): warning C4018: “<”: 有符号/无符号不匹配
+c:\codes\learnc\ojtemp1\源.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+  OJTemp1.vcxproj -> C:\Codes\learnc\OJTemp1\Debug\OJTemp1.exe
+  OJTemp1.vcxproj -> C:\Codes\learnc\OJTemp1\Debug\OJTemp1.pdb (Partial PDB)

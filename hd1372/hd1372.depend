@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461464982 source:c:\codes\learnc\hd1372\hd1372.cpp
+	<cstdio>
+	<queue>
+	<cstring>
+

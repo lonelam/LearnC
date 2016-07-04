@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\codes\learnc\maysortalgorithm\源.cpp(25): error C2672: “inssort”: 未找到匹配的重载函数
+c:\codes\learnc\maysortalgorithm\源.cpp(25): error C2974: 'inssort' : 模板 对于 'Comp'是无效参数，应为类型
+  c:\codes\learnc\maysortalgorithm\nsquaredsort.h(4): note: 参见“inssort”的声明

@@ -1,0 +1,4 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  shu1919_2.cpp
+  shu1919.vcxproj -> C:\Codes\learnc\shu1919\Debug\shu1919.exe
+  shu1919.vcxproj -> C:\Codes\learnc\shu1919\Debug\shu1919.pdb (Partial PDB)

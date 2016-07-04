@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\codes\learnc\shu1905\源.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+  shu1905.vcxproj -> C:\Codes\learnc\shu1905\Debug\shu1905.exe
+  shu1905.vcxproj -> C:\Codes\learnc\shu1905\Debug\shu1905.pdb (Partial PDB)

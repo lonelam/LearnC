@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1465195520 source:c:\codes\learnc\hd0231\hd0231.cpp
+	<vector>
+	<iostream>
+	<string>
+	<iterator>
+	<algorithm>
+
+1465194816 source:c:\codes\learnc\hd0231\template.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iterator>
+	<algorithm>
+	<sstream>
+	<iomanip>
+

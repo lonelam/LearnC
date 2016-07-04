@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\codes\learnc\shu1917\main.cpp(116): warning C4715: “go”: 不是所有的控件路径都返回值
+  shu1917.vcxproj -> C:\Codes\learnc\shu1917\Debug\shu1917.exe
+  shu1917.vcxproj -> C:\Codes\learnc\shu1917\Debug\shu1917.pdb (Partial PDB)
