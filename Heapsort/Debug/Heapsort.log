@@ -1,4 +1,0 @@
-﻿  main.cpp
-c:\codes\learnc\heapsort\main.cpp(12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  Heapsort.vcxproj -> C:\Codes\learnc\Heapsort\Debug\Heapsort.exe
-  Heapsort.vcxproj -> C:\Codes\learnc\Heapsort\Debug\Heapsort.pdb (Partial PDB)

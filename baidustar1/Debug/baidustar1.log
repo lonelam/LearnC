@@ -1,7 +1,0 @@
-﻿  源.cpp
-c:\codes\learnc\baidustar1\源.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
-c:\codes\learnc\baidustar1\源.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
-c:\codes\learnc\baidustar1\源.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
-c:\codes\learnc\baidustar1\源.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
-  baidustar1.vcxproj -> C:\Codes\learnc\baidustar1\Debug\baidustar1.exe
-  baidustar1.vcxproj -> C:\Codes\learnc\baidustar1\Debug\baidustar1.pdb (Partial PDB)

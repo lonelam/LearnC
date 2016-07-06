@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\codes\learnc\uva220\源.cpp(134): warning C4715: “transbar1”: 不是所有的控件路径都返回值
+c:\codes\learnc\uva220\源.cpp(86): warning C4715: “search1”: 不是所有的控件路径都返回值
+  uva220.vcxproj -> C:\Codes\learnc\uva220\Debug\uva220.exe
+  uva220.vcxproj -> C:\Codes\learnc\uva220\Debug\uva220.pdb (Partial PDB)
