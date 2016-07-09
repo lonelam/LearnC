@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\codes\learnc\shu2063\源.cpp(46): warning C4244: “初始化”: 从“ll”转换到“int”，可能丢失数据
+c:\codes\learnc\shu2063\源.cpp(47): warning C4244: “初始化”: 从“ll”转换到“int”，可能丢失数据
+  shu2063.vcxproj -> C:\Codes\learnc\shu2063\Debug\shu2063.exe
+  shu2063.vcxproj -> C:\Codes\learnc\shu2063\Debug\shu2063.pdb (Partial PDB)

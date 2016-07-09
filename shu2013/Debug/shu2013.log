@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\codes\learnc\shu2013\源.cpp(84): warning C4101: “t”: 未引用的局部变量
+  shu2013.vcxproj -> C:\Codes\learnc\shu2013\Debug\shu2013.exe
+  shu2013.vcxproj -> C:\Codes\learnc\shu2013\Debug\shu2013.pdb (Partial PDB)

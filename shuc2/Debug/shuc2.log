@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\codes\learnc\shuc2\源.cpp(58): warning C4101: “ans”: 未引用的局部变量
+  shuc2.vcxproj -> C:\Codes\learnc\shuc2\Debug\shuc2.exe
+  shuc2.vcxproj -> C:\Codes\learnc\shuc2\Debug\shuc2.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\codes\learnc\shu2018\源.cpp(41): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  shu2018.vcxproj -> C:\Codes\learnc\shu2018\Debug\shu2018.exe
+  shu2018.vcxproj -> C:\Codes\learnc\shu2018\Debug\shu2018.pdb (Partial PDB)
